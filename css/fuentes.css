@@ -1,0 +1,9 @@
+@font-face{
+		font-family:fuentelux;
+        src: url(Regular.ttf);
+}
+
+@font-face{
+        font-family:fuenteluxbold;
+        src: url(HeroicCondensed-Black.otf);
+}

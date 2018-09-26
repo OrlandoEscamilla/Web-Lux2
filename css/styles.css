@@ -1,0 +1,64 @@
+*{margin:0; padding:0; box-sizing:border-box;}
+html ,body{background:#000; height:100%; width:100%;}
+header{width:100%; padding-top:1px; margin-top:-30px; position:absolute; top: 0px; z-index: 11111111111111111111111111;}
+header nav { text-align:center;  padding-top:1px;}
+header nav ul li{display:inline-block; color:#fff; margin:0 20px;}
+header nav ul li a{color:#fff; font-family:fuentelux; font-weight:bold; text-decoration:none; color:#9f9555;}
+#logo{width:130px;  position:relative; top:30px;}
+#logo img{width:100%;}
+#facebook{width:25px; display:inline-block; float:right; margin-top:-28px; margin-right:20px;}
+#facebook img{width:100%;}
+#instagram{ width:25px; display:inline-block; float:right; margin-top:-28px; margin-right:20px;}
+#instagram img{width:100%;}
+#sectionVideo{width:100%; }
+#sectionVideo video{width: 100%;}
+/*--------------------------------------------------ABOUT.html-------------------------------------------------------------------------------*/
+aside{width:400px; height:100%; background-color:#a9813b; float:left; padding:40px; position:relative;}
+aside h2{font-family:fuenteluxbold; font-size:135px; line-height:150px; height:150px;}
+aside h1{font-family:fuenteluxbold; font-size:400px; line-height:350px; height:240px; text-align:center;}
+.containerdown{width:320px; position:absolute; bottom:40px;}
+.containerdown h3{font-family:fuentelux; font-size:45px;}
+.containerdown h4{font-family:fuentelux; font-size:30px;}
+.containerdown .time{margin-top:10px;}
+.containerdown .hour{float:left; font-family:fuentelux; font-size:30px;}
+.containerdown .hrs{float:right; font-family:fuentelux; font-size:30px;}
+.containerMain{width:600px; height:300px; position:absolute; bottom:40px; right:40px; padding-top:45px;}
+.containerMain h1{color:#a9813b; font-family:fuenteluxbold; font-size:65px; line-height:75px;}
+.containerMain h3{color:#a9813b; font-family:fuenteluxbold; font-size:30px; margin-top:-18px;}
+.containerMain p{color:#fff; font-family:fuentelux; font-size:20px;  }
+
+/*--------------------------------------------------peleas.html-------------------------------------------------------------------------------*/
+
+#fighters{margin:0px auto; margin-top:150px; max-width:960px; height:auto;}
+#d2 {width:400px; height:auto;}
+ #pelea_estelar{ border: solid 1px #fff; width:250px; margin:0 auto; padding-top:10px;}
+#pelea_estelar h1{font-family:fuenteluxbold; text-align:center; color:#fff; font-size:35px;}
+#containerImgleft{width:100%;}
+#containerImgleft img{width:100%;}
+
+.peleadorTitulo h1{font-family:fuenteluxbold; text-align:center; color:#c9903c; font-size:80px;}
+.linea{width:100%; height:auto;}
+.linea img{width:100%;}
+
+
+
+
+
+#d4 {width:400px; height:auto;}
+#d2, #d3, #d4{display:inline-block; vertical-align:top;}
+#d3{margin-top:310px; text-align:center; width:150px;}
+#d3 img{width:60%;}
+
+
+#otherfighter{margin:0 auto; height:55px; width:960px;}
+#otherfighter #d5{float:left;}
+#d5 h1{font-family:fuenteluxbold; color:#fff; font-size:45px;}
+
+#otherfighter #d6{ float: right;}
+#d6 h1{font-family:fuenteluxbold; color:#fff; font-size:45px;}
+
+#otherfighter2{margin:0 auto; height:auto; width:960px; }
+#otherfighter2 p{color:#fff; text-align: center; font-family:fuenteluxbold; font-size:33px; }
+
+
+.oro{color: #c9903c;}
